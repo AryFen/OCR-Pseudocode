@@ -16,6 +16,7 @@ Indexing Begins at 0
 Increment by, for example, var = var + 1  
   
 Built-in Functions: 
+
 input(OPTIONAL PROMPT)              (Console Input)
 int(INT/FLOAT/STRING)               (Converts to Integer)
 float(INT/FLOAT/STRING)             (Converts to Float)
