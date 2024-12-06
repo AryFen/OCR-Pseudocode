@@ -1,4 +1,5 @@
-# OCR-Pseudocode
+``` python
+OCR-Pseudocode
 Interpreter for the Standard OCR GCSE Pseudocode
 
 Usage: This version of OCR.py currently works on a text file called "test.txt" (containing the OCR Pseudocode), which must exist in the same directory. This can easily be changed by altering the text file name at the bottom of OCR.py. Also note, there must be a newline at the end of the file.
@@ -121,4 +122,4 @@ procedure printTwice(statement)
   print(statement)
   print(statement)
 endprocedure
-
+```
